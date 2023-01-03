@@ -27,7 +27,7 @@
     "monaco-themes": "^0.2.5",
     "nano-assign": "^1.0.1",
     "nc-lib-gui": "^0.1.192",
-    "nuxt": "^2.14.0",
+    "nuxt": "^3.0.0",
     "odometer": "^0.4.8",
     "secure-ls": "^1.2.6",
     "socket.io-client": "^2.3.0",
@@ -58,7 +58,7 @@
   "devDependencies": {
     "@nuxtjs/vuetify": "^1.11.2",
     "cypress": "^7.3.0",
-    "monaco-editor-webpack-plugin": "^1.9.1",
+    "monaco-editor-webpack-plugin": "^7.0.1",
     "webpack-obfuscator": "^1.9.0",
     "sass": "~1.32.12"
   }
