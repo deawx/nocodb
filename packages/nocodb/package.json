@@ -180,7 +180,7 @@
     "@types/supertest": "^2.0.10",
     "@webserverless/fc-express": "^0.1.4",
     "autocannon": "^6.5.0",
-    "ava": "2.2.0",
+    "ava": "5.2.0",
     "aws-serverless-express": "^3.3.8",
     "azure-function-express": "^2.0.0",
     "chai": "^4.2.0",
